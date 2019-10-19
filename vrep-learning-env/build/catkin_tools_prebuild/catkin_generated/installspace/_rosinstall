@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/isler/Abhi/catkin_ws/src/vrep-learning-env/install/setup.sh

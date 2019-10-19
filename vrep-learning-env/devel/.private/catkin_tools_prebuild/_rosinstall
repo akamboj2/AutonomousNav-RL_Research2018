@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/isler/Abhi/catkin_ws/src/vrep-learning-env/devel/.private/catkin_tools_prebuild/setup.sh
